@@ -1,12 +1,17 @@
----Proyecto PAE 2021 Vuelos
+#Proyecto PAE 2021 Vuelos
 
-En este repo se dividieron los proyectos
-server -contiene el proyecto de Node.js
-frontend -contiene el proyecto de Angular
+En este repo se dividieron las APIs 
 
-para ejecutar el proyecto de Node
-ejecutar desde la terminal en la parteta de server
---- nodemon .
-para ejecutar el proyecto de Angular
-ejecutar desde la terminal en la parteta de frontend
---- ng serve -o
+#Carpetas
+Carpeta server -contiene la API de Node.js
+frontend -contiene la API de Angular
+
+#para ejecutar la API de Node
+
+ejecutar desde \proyectoPAE2021-app\server `nodemon .` iniciacializa la API de Node
+
+#para ejecutar la API de Angular
+
+ejecutar desde \proyectoPAE2021-app\frontend `ng serve -o` inicializa la API de Angular
+
+
